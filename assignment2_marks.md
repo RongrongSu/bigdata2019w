@@ -7,26 +7,26 @@ WATIAM:r2sue
 github:RongrongSu
 
 **Question 1**
-mark: 1/1
+mark: 4/4
 
 **Question 2**
-mark: 1/1
+mark: 4.0/4
 
 **Question 3**
-mark: 1/1
+mark: 4.0/4
 
 **Question 4**
-mark: 3/3
+mark: 6.0/6
 
 **Question 5**
-mark: 3/3
+mark: 6.0/6
 
 **Question 6**
-mark: 3/3
+mark: 6.0/6
 
 **feedback :** 
 
 **Final grade**
-mark: 12.0/12.0
+mark: 30.0/30.0
 
-summary: 20751802,r2sue,RongrongSu,12.0/12.0
+summary: 20751802,r2sue,RongrongSu,30.0/30.0
