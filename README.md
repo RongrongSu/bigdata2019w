@@ -55,3 +55,9 @@ A5 tasks:
          (2) Build spam prediction models, using training data sets and stochastic gradient descent (SGD).
          
          (3) Use these models to predict whether the documents in a test data set are spam.
+         
+# Basic twitter sentiment analysis with Pyspark and Kafka
+
+This project is about processing live data using Spark’s streaming APIs and Python. In this project, I perform a basic sentiment analysis of real-time tweets. Specifically, I count the number of negative and positive words at each time step and visualize them with line graph.
+
+This project is based on uncompleted project of ADBI 591 at NCSU. For more details, the description of project of ADBI 591 at NCSU is given in Project-SparkStreaming document.
